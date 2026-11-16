@@ -1,124 +1,72 @@
-<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Arda%20Gonca&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineering%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Software%20Development&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=120&section=header&text=ARDA%20GONCA&fontSize=56&fontColor=e6edf3&fontAlign=50&fontAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ardagonca">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Computer+Engineering+Student+%40+Bart%C4%B1n+University;Software+Developer+Intern+%40+NDM+Software;T%C3%9CB%C4%B0TAK+2209-A+Supported+Researcher;Building+smart+greenhouses+with+data+%F0%9F%8C%B1;Open+to+data+%2F+BI+%2F+software+internships+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=7EE787&center=true&vCenter=true&width=640&height=32&lines=intern+by+day.+researcher+by+night.;shipping+on+weekends.;data+engineering+%C2%B7+bi+%C2%B7+software;currently%3A+teaching+greenhouses+to+predict+disease" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ardagonca&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <a href="https://github.com/ardagonca?tab=followers"><img src="https://img.shields.io/github/followers/ardagonca?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers"/></a>
-  <img src="https://img.shields.io/badge/Location-Bart%C4%B1n%2C%20T%C3%BCrkiye-e30a17?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="status"/>
+  <sub>Computer Engineering @ Bartın University &nbsp;·&nbsp; Software Developer Intern @ NDM Software &nbsp;·&nbsp; TÜBİTAK 2209-A Researcher</sub>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name:        Arda Gonca
-education:   B.Sc. Computer Engineering — Bartın University (senior)
-work:        Software Developer Intern @ NDM Software (remote team)
-research:    TÜBİTAK 2209-A supported researcher
-focus:       [data engineering, business intelligence, software development]
-looking_for: long-term internship / junior roles in data & software
-```
-
-- 🌱 **Capstone:** *Greenhouse Disease Prediction System* — sensors, image processing and cloud-native infra
-- 🛰️ **Research:** early-warning of disease risk from greenhouse micro-climate data
-- 🤖 **Maker side:** an automated waste-sorting conveyor (paper / plastic / metal / glass) built with my team at Deneyap
-- 🎮 **For fun:** a LAN web game platform for friends — lobby, 2048, and a multiplayer 3D FPS in the works
-
----
-
-## 🛠️ Tech Stack
+<br/>
 
 <p align="center">
-  <b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,c,php,html,css&perline=8" />
+  <img width="100%" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </p>
 
-<p align="center">
-  <b>Frameworks & Backend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,supabase,postgres,mysql&perline=8" />
+### about
+
+I'm a final-year computer engineering student who likes turning raw data into something people can actually act on. Most days I'm writing code for a remote team at NDM Software, most nights I'm on my TÜBİTAK-supported research, and whatever is left goes into side projects.
+
+Right now that means:
+
+- **Capstone** — a greenhouse disease prediction system: sensor + image data, Supabase, image processing, deployed on Kubernetes
+- **Research** — early-warning of disease risk from greenhouse micro-climate data
+- **Work** — shipping features with a remote dev team at NDM Software
+- **Side quests** — a LAN game platform for friends, with a multiplayer 3D FPS in progress
+
+Open to data engineering, BI and software internships.
+
+### stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,react,nodejs,php,c,postgres,supabase,mysql,docker,kubernetes,aws,gcp,linux,git,githubactions,arduino&perline=10&theme=dark" />
 </p>
 
-<p align="center">
-  <b>Data, Cloud & DevOps</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,githubactions&perline=8" />
-</p>
+### selected work
 
-<p align="center">
-  <b>Embedded & Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,idea,postman,figma&perline=8" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it is | Stack |
+| | | |
 |---|---|---|
-| 🌿 **[Smart Greenhouse](https://github.com/ardagonca/smart-greenhouse-infra)** | Disease-risk prediction from sensor + image data, deployed on Kubernetes | Supabase · Image Processing · K8s · AWS/GCP |
-| 🛒 **[E-Commerce](https://github.com/ardagonca/E-CommerceSpringReact)** | Full-stack e-commerce site | Spring Boot · React · TypeScript |
-| ♻️ **Waste Sorter** | Sensor-driven conveyor that sorts paper/plastic/metal/glass | Deneyap Kart v2 · Servo · 3D printing |
-| 🍽️ **[Restaurant Stock](https://github.com/ardagonca/restoran-stok-takip)** | Inventory tracking for restaurants | JavaScript |
-| ⚡ **[STM32 Timer](https://github.com/ardagonca/STM32-Timer_Interrupt_Flash_Button)** | Timer interrupts, flash & button handling on bare metal | C · STM32 |
+| **[smart-greenhouse-infra](https://github.com/ardagonca/smart-greenhouse-infra)** | Infrastructure for greenhouse disease-risk prediction | Kubernetes · Supabase · AWS/GCP |
+| **[E-CommerceSpringReact](https://github.com/ardagonca/E-CommerceSpringReact)** | Full-stack e-commerce platform | Spring Boot · React · TypeScript |
+| **[restoran-stok-takip](https://github.com/ardagonca/restoran-stok-takip)** | Restaurant inventory tracking | JavaScript |
+| **[STM32-Timer_Interrupt_Flash_Button](https://github.com/ardagonca/STM32-Timer_Interrupt_Flash_Button)** | Timer interrupts, flash and button handling on bare metal | C · STM32 |
 
----
-
-## 📊 GitHub Stats
+### the grind
 
 <p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://streak-stats.demolab.com?user=ardagonca&hide_border=true&background=0D1117&ring=7EE787&fire=7EE787&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7EE787&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/3-stats.svg" />
-  <img height="180" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img height="170" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/github_dark/3-stats.svg" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-  <img height="180" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardagonca&bg_color=0d1117&color=8b949e&line=7ee787&point=e6edf3&area=true&area_color=7ee787&hide_border=true&custom_title=contribution%20activity" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ardagonca&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardagonca&bg_color=0d1117&color=36bcf7&line=2c5364&point=ffffff&area=true&area_color=36bcf7&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardagonca/ardagonca/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardagonca/ardagonca/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/ardagonca/ardagonca/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/ardagonca/ardagonca/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
----
-
-## 🤝 Connect
-
 <p align="center">
-  <a href="https://github.com/ardagonca"><img src="https://img.shields.io/badge/GitHub-ardagonca-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- LinkedIn adresini buraya ekle:
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-Arda%20Gonca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  -->
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+  <sub>if it compiles at 3 AM, it ships at 9.</sub>
 </p>
