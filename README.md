@@ -62,46 +62,30 @@ looking_for: long-term internship / junior roles in data & software
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ardagonca/smart-greenhouse-infra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ardagonca&repo=smart-greenhouse-infra&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/ardagonca/E-CommerceSpringReact">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ardagonca&repo=E-CommerceSpringReact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ardagonca/CebimdekiVeri">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ardagonca&repo=CebimdekiVeri&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/ardagonca/restoran-stok-takip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ardagonca&repo=restoran-stok-takip&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ardagonca/expense-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ardagonca&repo=expense-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/ardagonca/STM32-Timer_Interrupt_Flash_Button">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ardagonca&repo=STM32-Timer_Interrupt_Flash_Button&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-
 | Project | What it is | Stack |
 |---|---|---|
-| 🌿 **Smart Greenhouse** | Disease-risk prediction from sensor + image data, deployed on Kubernetes | Supabase · Image Processing · K8s · AWS/GCP |
-| 🛒 **E-Commerce** | Full-stack e-commerce site | Spring Boot · React · TypeScript |
+| 🌿 **[Smart Greenhouse](https://github.com/ardagonca/smart-greenhouse-infra)** | Disease-risk prediction from sensor + image data, deployed on Kubernetes | Supabase · Image Processing · K8s · AWS/GCP |
+| 🛒 **[E-Commerce](https://github.com/ardagonca/E-CommerceSpringReact)** | Full-stack e-commerce site | Spring Boot · React · TypeScript |
 | ♻️ **Waste Sorter** | Sensor-driven conveyor that sorts paper/plastic/metal/glass | Deneyap Kart v2 · Servo · 3D printing |
-| 🍽️ **Restaurant Stock** | Inventory tracking for restaurants | JavaScript |
-| ⚡ **STM32 Timer** | Timer interrupts, flash & button handling on bare metal | C · STM32 |
+| 🍽️ **[Restaurant Stock](https://github.com/ardagonca/restoran-stok-takip)** | Inventory tracking for restaurants | JavaScript |
+| ⚡ **[STM32 Timer](https://github.com/ardagonca/STM32-Timer_Interrupt_Flash_Button)** | Timer interrupts, flash & button handling on bare metal | C · STM32 |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ardagonca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardagonca&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img width="95%" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="180" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 <p align="center">
@@ -110,10 +94,6 @@ looking_for: long-term internship / junior roles in data & software
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ardagonca&bg_color=0d1117&color=36bcf7&line=2c5364&point=ffffff&area=true&area_color=36bcf7&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ardagonca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
 ---
