@@ -47,10 +47,6 @@ Open to data engineering, BI and software internships.
 <h3><img height="34" alt="the grind" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7EE787&vCenter=true&width=460&height=34&repeat=false&lines=%24+git+log+--since%3D%221+year+ago%22" /></h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ardagonca&hide_border=true&background=0D1117&ring=7EE787&fire=7EE787&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7EE787&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
-</p>
-
-<p align="center">
   <img height="170" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
   <img height="170" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-summary-card-output/github_dark/3-stats.svg" />
 </p>
