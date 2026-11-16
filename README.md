@@ -16,7 +16,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/ardagonca/ardagonca/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </p>
 
-### about
+<h3><img height="34" alt="about" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7EE787&vCenter=true&width=460&height=34&repeat=false&lines=%24+whoami" /></h3>
 
 I'm a final-year computer engineering student who likes turning raw data into something people can actually act on. Most days I'm writing code for a remote team at NDM Software, most nights I'm on my TÜBİTAK-supported research, and whatever is left goes into side projects.
 
@@ -29,13 +29,13 @@ Right now that means:
 
 Open to data engineering, BI and software internships.
 
-### stack
+<h3><img height="34" alt="stack" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7EE787&vCenter=true&width=460&height=34&repeat=false&lines=%24+ls+.%2Fstack" /></h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,react,nodejs,php,c,postgres,supabase,mysql,docker,kubernetes,aws,gcp,linux,git,githubactions,arduino&perline=10&theme=dark" />
 </p>
 
-### selected work
+<h3><img height="34" alt="selected work" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7EE787&vCenter=true&width=460&height=34&repeat=false&lines=%24+ls+.%2Fprojects+--featured" /></h3>
 
 | | | |
 |---|---|---|
@@ -44,7 +44,7 @@ Open to data engineering, BI and software internships.
 | **[restoran-stok-takip](https://github.com/ardagonca/restoran-stok-takip)** | Restaurant inventory tracking | JavaScript |
 | **[STM32-Timer_Interrupt_Flash_Button](https://github.com/ardagonca/STM32-Timer_Interrupt_Flash_Button)** | Timer interrupts, flash and button handling on bare metal | C · STM32 |
 
-### the grind
+<h3><img height="34" alt="the grind" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7EE787&vCenter=true&width=460&height=34&repeat=false&lines=%24+git+log+--since%3D%221+year+ago%22" /></h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ardagonca&hide_border=true&background=0D1117&ring=7EE787&fire=7EE787&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7EE787&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
