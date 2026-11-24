@@ -47,8 +47,11 @@ Right now I'm interning remotely as a software developer at NDM Software, leadin
 <!-- activity:start -->
 | Repository | What it is | Language | Last push |
 |---|---|---|---|
-| [deeplog-aiops](https://github.com/ardagonca/deeplog-aiops) | Big-data AIOps: log anomaly detection and autonomous healing. TÜBİTAK 2209-A. | Python | recently |
-| [smart-greenhouse-infra](https://github.com/ardagonca/smart-greenhouse-infra) | Infrastructure for the greenhouse disease prediction system | JavaScript | recently |
+| [deeplog-aiops](https://github.com/ardagonca/deeplog-aiops) | Büyük veri tabanlı AIOps: Kafka + HDFS + Spark ile log anomali tespiti (DeepLog) ve otonom iyileştirme. TÜBİTAK 2209-A. | Python | today |
+| [smart-greenhouse-infra](https://github.com/ardagonca/smart-greenhouse-infra) |  | JavaScript | today |
+| [expense-tracker](https://github.com/ardagonca/expense-tracker) |  | Java | 1 mo ago |
+| [restoran-stok-takip](https://github.com/ardagonca/restoran-stok-takip) |  | JavaScript | 5 mo ago |
+| [STM32-Timer_Interrupt_Flash_Button](https://github.com/ardagonca/STM32-Timer_Interrupt_Flash_Button) |  | C | 6 mo ago |
 <!-- activity:end -->
 
 <sub>This table updates itself every few hours from my latest pushes.</sub>
