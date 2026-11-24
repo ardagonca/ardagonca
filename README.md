@@ -12,7 +12,7 @@ Click any project to open its repository.
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/ardagonca/deeplog-aiops"><img src="assets/deeplog-aiops.svg" alt="deeplog-aiops: real-time log anomaly detection and self-healing with Kafka, Spark Streaming, HDFS and DeepLog" /></a></td>
+    <td width="50%"><a href="https://github.com/ardagonca/deeplog-aiops"><img src="assets/deeplog-aiops.svg" alt="deeplog-aiops: real-time log anomaly detection and self-healing on AWS with Kafka, Spark Streaming, HDFS and DeepLog" /></a></td>
     <td width="50%"><a href="https://github.com/ardagonca/smart-greenhouse-infra"><img src="assets/greenhouse.svg" alt="Smart greenhouse: MQTT sensor ingest, FastAPI, forecasting models and a React dashboard" /></a></td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ Click any project to open its repository.
 <h3><img height="34" alt="stack" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7CC4FF&vCenter=true&width=520&height=34&repeat=false&lines=%24+ls+.%2Fstack" /></h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,ts,js,react,php,c,postgres,mysql,firebase,kafka,pytorch,sklearn,docker,kubernetes,gcp,linux,githubactions&perline=10&theme=dark" alt="Python, Java, Spring, FastAPI, TypeScript, JavaScript, React, PHP, C, PostgreSQL, MySQL, Firebase, Kafka, PyTorch, scikit-learn, Docker, Kubernetes, GCP, Linux, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,ts,js,react,php,c,postgres,mysql,firebase,kafka,pytorch,sklearn,docker,kubernetes,aws,gcp,linux,githubactions&perline=10&theme=dark" alt="Python, Java, Spring, FastAPI, TypeScript, JavaScript, React, PHP, C, PostgreSQL, MySQL, Firebase, Kafka, PyTorch, scikit-learn, Docker, Kubernetes, AWS, GCP, Linux, GitHub Actions" />
 </p>
 
 <h3><img height="34" alt="recently shipped" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7CC4FF&vCenter=true&width=520&height=34&repeat=false&lines=%24+git+log+--recent" /></h3>
