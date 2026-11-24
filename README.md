@@ -4,7 +4,7 @@
 
 <h3><img height="34" alt="about" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7CC4FF&vCenter=true&width=520&height=34&repeat=false&lines=%24+whoami" /></h3>
 
-I'm a computer engineering student at Bartın University, and this is where I keep the things I build. Most of them sit somewhere between raw data and a decision: streaming pipelines, distributed systems that watch themselves, and models that turn sensor readings into warnings. Every so often something closer to the metal, or a game for friends.
+I'm a computer engineering student at Bartın University, and this is where I keep the things I build. Most of them sit somewhere between raw data and a decision: streaming pipelines, distributed systems that watch themselves, and models that turn sensor readings into warnings. Every so often something closer to the metal.
 
 Click any project to open its repository.
 
@@ -12,12 +12,16 @@ Click any project to open its repository.
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/ardagonca/deeplog-aiops"><img src="assets/deeplog-aiops.svg" alt="deeplog-aiops: log anomaly detection and autonomous healing with Kafka, Spark Streaming, HDFS and Isolation Forest" /></a></td>
-    <td width="50%"><a href="https://github.com/ardagonca/smart-greenhouse-infra"><img src="assets/greenhouse.svg" alt="Greenhouse disease prediction: sensors, Supabase, image processing, Kubernetes" /></a></td>
+    <td width="50%"><a href="https://github.com/ardagonca/deeplog-aiops"><img src="assets/deeplog-aiops.svg" alt="deeplog-aiops: real-time log anomaly detection and self-healing with Kafka, Spark Streaming, HDFS and DeepLog" /></a></td>
+    <td width="50%"><a href="https://github.com/ardagonca/smart-greenhouse-infra"><img src="assets/greenhouse.svg" alt="Smart greenhouse: MQTT sensor ingest, FastAPI, forecasting models and a React dashboard" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/ardagonca/E-CommerceSpringReact"><img src="assets/ecommerce.svg" alt="E-commerce platform with Spring Boot and React" /></a></td>
-    <td width="50%"><a href="https://github.com/ardagonca/STM32-Timer_Interrupt_Flash_Button"><img src="assets/stm32.svg" alt="STM32 timers, interrupts and flash in C" /></a></td>
+    <td width="50%"><a href="https://github.com/ardagonca/restoran-stok-takip"><img src="assets/restoran.svg" alt="Restaurant stock tracker on Google Kubernetes Engine with autoscaling and CI/CD" /></a></td>
+    <td width="50%"><a href="https://github.com/ardagonca/CebimdekiVeri"><img src="assets/cebimdekiveri.svg" alt="CebimdekiVeri: personal budget tracking and forecasting with FastAPI, React and Firebase" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/ardagonca/E-CommerceSpringReact"><img src="assets/ecommerce.svg" alt="E-commerce platform with Spring Boot, Spring Security, PostgreSQL and React" /></a></td>
+    <td width="50%"><a href="https://github.com/ardagonca/expense-tracker"><img src="assets/expense-tracker.svg" alt="Expense tracker in JavaFX and PostgreSQL with live currency conversion" /></a></td>
   </tr>
 </table>
 
@@ -25,15 +29,17 @@ Click any project to open its repository.
 
 | Project | What it does | Built with |
 |---|---|---|
-| [restoran-stok-takip](https://github.com/ardagonca/restoran-stok-takip) | Stock tracking for restaurant kitchens | JavaScript |
-| [expense-tracker](https://github.com/ardagonca/expense-tracker) | Personal expense tracking | Java |
-| Warehouse delivery robot | Autonomous delivery along a taped track, built as a team | Raspberry Pi Zero 2 W, Gazebo |
-| LAN game platform | Lobby and games for friends on the local network, multiplayer 3D shooter in progress | Web, real-time |
+| [STM32-Timer_Interrupt_Flash_Button](https://github.com/ardagonca/STM32-Timer_Interrupt_Flash_Button) | Timer interrupts, flash storage and button handling on an STM32F103 | C, STM32CubeIDE, HAL |
+| [Learning-Data](https://github.com/ardagonca/Learning-Data) | Data analysis and ML notebooks: CS2 player stats, bank marketing cleanup, sales and shopping trends | Python, pandas, scikit-learn, SQL |
+| [Chat-App](https://github.com/ardagonca/Chat-App) | Real-time chat app | React, Firebase |
+| [EmployeeManagement](https://github.com/ardagonca/EmployeeManagement) | Staff management desktop app with login, records and charts | JavaFX, SQL database |
+| [CargoManagementSystem](https://github.com/ardagonca/CargoManagementSystem) | Cargo company panel for branches, staff, positions and orders | PHP, MySQL |
+| [Pomodoro](https://github.com/ardagonca/Pomodoro) | Pomodoro focus timer | JavaFX, Scene Builder |
 
 <h3><img height="34" alt="stack" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7CC4FF&vCenter=true&width=520&height=34&repeat=false&lines=%24+ls+.%2Fstack" /></h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,ts,react,nodejs,c,postgres,supabase,mysql,kafka,docker,kubernetes,aws,gcp,linux,git,githubactions,raspberrypi&perline=10&theme=dark" alt="Python, Java, Spring, TypeScript, React, Node.js, C, PostgreSQL, Supabase, MySQL, Kafka, Docker, Kubernetes, AWS, GCP, Linux, Git, GitHub Actions, Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,ts,js,react,php,c,postgres,mysql,firebase,kafka,pytorch,sklearn,docker,kubernetes,gcp,linux,githubactions&perline=10&theme=dark" alt="Python, Java, Spring, FastAPI, TypeScript, JavaScript, React, PHP, C, PostgreSQL, MySQL, Firebase, Kafka, PyTorch, scikit-learn, Docker, Kubernetes, GCP, Linux, GitHub Actions" />
 </p>
 
 <h3><img height="34" alt="recently shipped" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1200&pause=100000&color=7CC4FF&vCenter=true&width=520&height=34&repeat=false&lines=%24+git+log+--recent" /></h3>
