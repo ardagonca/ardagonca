@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300"><defs><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#243041"/></pattern></defs><rect width="1200" height="300" rx="18" fill="#121821"/><rect width="1200" height="300" rx="18" fill="url(#g)" opacity=".7"/><rect x=".5" y=".5" width="1199" height="299" rx="17.5" fill="none" stroke="#243041"/>
 <text x="64" y="128" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#e8edf3" letter-spacing="-2">Arda Gonca</text>
-<text x="66" y="178" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="24" fill="#8b98a9">Data engineering, distributed systems and the software in between.</text>
+<text x="66" y="178" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="24" fill="#8b98a9">Data pipelines, distributed systems and the software in between.</text>
 <text x="66" y="236" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="18" fill="#7cc4ff">Computer Engineering, Bartın University</text>
-<text x="66" y="262" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="18" fill="#8b98a9">Software Developer Intern at NDM Software · TÜBİTAK 2209-A project lead</text>
+<text x="66" y="262" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="18" fill="#8b98a9">A portfolio of things I design, build and keep running.</text>
 <g transform="translate(830,60)" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#8b98a9">
 <path id="p1" d="M20,40 C90,40 90,100 160,100 S230,160 300,160" fill="none" stroke="#243041" stroke-width="2"/>
 <path id="p2" d="M20,160 C90,160 90,100 160,100" fill="none" stroke="#243041" stroke-width="2"/>
