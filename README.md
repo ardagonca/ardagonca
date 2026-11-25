@@ -47,7 +47,7 @@ Click any project to open its repository.
 <!-- activity:start -->
 | Repository | What it is | Language | Last push |
 |---|---|---|---|
-| [deeplog-aiops](https://github.com/ardagonca/deeplog-aiops) | Büyük veri tabanlı AIOps: Kafka + HDFS + Spark ile log anomali tespiti (DeepLog) ve otonom iyileştirme. TÜBİTAK 2209-A. | Python | today |
+| [deeplog-aiops](https://github.com/ardagonca/deeplog-aiops) | Büyük veri tabanlı AIOps: Kafka + HDFS + Spark ile log anomali tespiti (DeepLog) ve otonom iyileştirme. TÜBİTAK 2209-A. | Python | yesterday |
 | [smart-greenhouse-infra](https://github.com/ardagonca/smart-greenhouse-infra) | Greenhouse monitoring and disease-risk forecasting: MQTT sensor ingest, FastAPI, PyTorch and scikit-learn models, React + Electron dashboard. | JavaScript | yesterday |
 | [expense-tracker](https://github.com/ardagonca/expense-tracker) | Expense tracker in JavaFX and PostgreSQL with categories, live currency conversion and CSV export. | Java | 1 mo ago |
 | [restoran-stok-takip](https://github.com/ardagonca/restoran-stok-takip) | Restaurant stock and recipe tracker on Google Kubernetes Engine: React, FastAPI, HPA autoscaling, persistent storage and CI/CD. | JavaScript | 5 mo ago |
